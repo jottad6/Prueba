@@ -1,0 +1,15 @@
+JavaScript ruta de aprendizaje
+
+Básico
+Fundamentos de programación
+
+Escribir con mayuscula desde la segunda letra como "amigoDeLu"
+
+tipos de dato:
+
+*Texto
+*Number
+*Booleano
+
+
+prompt caja de texto
